@@ -1,0 +1,842 @@
+{
+  "python developer": [
+    {
+      "title": "Automated File Organizer",
+      "desc": "A Python script that automatically organizes files into categorized folders based on file extensions or content. It reduces manual sorting effort and enhances digital workspace efficiency. Users can customize file rules and naming conventions. Optional GUI support gives ease of use."
+    },
+    {
+      "title": "Microservices-Based E-commerce Backend",
+      "desc": "A distributed backend architecture where each service handles a different function such as authentication, product catalog, ordering, and payment. Built using FastAPI or Django REST to simulate real enterprise-level backend architecture. Services communicate using internal APIs and can scale independently. Demonstrates real backend engineering capability."
+    },
+    {
+      "title": "Data Extraction & Reporting Pipeline",
+      "desc": "A system that collects live or historical data from APIs or web scraping, cleans it, and outputs structured reports. Uses Pandas for transformation and Matplotlib/Excel for visualization. Automates repetitive analysis tasks. Useful in business analytics and data science portfolios."
+    }
+  ],
+  "java developer": [
+    {
+      "title": "Spring Boot Banking System",
+      "desc": "A secure backend service handling user accounts, funds transfer, transaction history, and authentication. Demonstrates enterprise-grade backend logic. Integrates database persistence using Hibernate/JPA. Can be expanded with loans, security pins, and reporting."
+    },
+    {
+      "title": "Java Online Examination System",
+      "desc": "A platform where students take tests and answers are auto-graded upon submission. Supports timed exams, random question generation, and result computation. Admin panel enables instructors to add questions. Ideal example of OOP and MVC design."
+    },
+    {
+      "title": "Real-time Chat Application using Java Sockets",
+      "desc": "A peer-to-peer or server-mediated messaging platform in Java. Implements socket communication, real-time message delivery, and user presence indicators. Optional encryption for message security. Demonstrates concurrency and networking skills."
+    }
+  ],
+  "web developer": [
+    {
+      "title": "Portfolio Website with CMS Backend",
+      "desc": "A professional web portfolio where new projects can be dynamically added using a backend. It uses responsive modern UI design. Demonstrates frontend + backend integration. Excellent for employers to view your skills."
+    },
+    {
+      "title": "Interactive Resume Website",
+      "desc": "A creative resume interface featuring animations, downloadable CV, skill bars, and section transitions. Much more impactful than a PDF resume. Extends into personal branding. Can embed testimonials and project demos."
+    },
+    {
+      "title": "Real-time Weather Dashboard",
+      "desc": "Uses weather API data to display temperature, humidity, air quality, forecasts. Includes geolocation search and animated UI effects. Offers a clear example of API integration. Can include graphs and historical trends."
+    }
+  ],
+  "devops engineer": [
+    {
+      "title": "Complete CI/CD Pipeline",
+      "desc": "Implements version control, automated testing, containerization, and deployment to cloud. Demonstrates DevOps workflow proficiency. Reduces deployment errors and manual work. Teaches real-world automation practices."
+    },
+    {
+      "title": "Infrastructure as Code with Terraform",
+      "desc": "Automatically provisions AWS infrastructure like VPC, EC2, RDS, IAM with code instead of manual console clicking. Scalable and repeatable deployment process. Trains cloud architecture knowledge. Shows production-level infra building."
+    },
+    {
+      "title": "System Monitoring with Prometheus & Grafana",
+      "desc": "Collects real-time system metrics and visualizes them in dashboards. Helps detect failures and performance bottlenecks. Used in production cloud environments. Shows operational observability skills."
+    }
+  ],
+  "mechanical engineer": [
+    {
+      "title": "Mechanical Gearbox Design",
+      "desc": "Designs gear systems using CAD software and verifies performance with ANSYS. Includes stress and fatigue analysis. Demonstrates real mechanical design skills. Can integrate materials and torque simulation."
+    },
+    {
+      "title": "Robotic Arm Mechanism",
+      "desc": "Models the geometry and mechanical movement calculations for a jointed robotic arm. Includes torque and payload analysis. Demonstrates practical robotic engineering. Can also be integrated with microcontrollers."
+    },
+    {
+      "title": "Thermal Heat Sink Optimization",
+      "desc": "Analyzes temperature dissipation using CFD simulation. Identifies ways to improve cooling efficiency. Very relevant for electronics and automotive fields. Strengthens simulation & thermodynamics understanding."
+    }
+  ],
+  "civil engineer": [
+    {
+      "title": "Smart Roadway City Layout",
+      "desc": "Designs city road infrastructure with traffic simulation models. Determines optimal route distribution. Can include congestion analysis. Useful for urban planning."
+    },
+    {
+      "title": "Earthquake-resistant Building",
+      "desc": "Applies structural vibration and seismic stress models to building architecture. Simulates real earthquake response. Shows capability in structural engineering principles. Includes reinforcement and load distribution."
+    },
+    {
+      "title": "Water Canal Survey System",
+      "desc": "Uses topological survey data for designing irrigation and drainage systems. Models flow capacity and gradient. Can be applied in agricultural development. Real-world engineering relevance."
+    }
+  ],
+  "ai prompt engineer": [
+    {
+      "title": "Multi-Model AI Chatbot",
+      "desc": "Routes queries dynamically through ChatGPT, Claude, Llama etc depending on context. Demonstrates mastery of prompt engineering selection criteria. Useful for AI agent building. Showcases knowledge of LLM APIs."
+    },
+    {
+      "title": "Prompt Optimization Tool",
+      "desc": "Analyzes prompt structure and measures output quality. Suggests modifications to reduce hallucinations. Helps users design better LLM prompts. Reflects deep understanding of prompt design logic."
+    },
+    {
+      "title": "Document-based RAG Chatbot",
+      "desc": "User uploads PDFs or docs and the AI answers using embedded knowledge. Uses vector databases and semantic search. Practical and in high demand professionally. Demonstrates real applied AI engineering."
+    }
+  ],
+  "blockchain developer": [
+    {
+      "title": "Decentralized Voting System",
+      "desc": "Ensures transparent and tamper-proof elections on blockchain. Voters are verified cryptographically. Eliminates vote fraud. Demonstrates political tech use cases."
+    },
+    {
+      "title": "NFT Marketplace",
+      "desc": "Users mint, display, trade NFTs with smart contracts. Includes royalties and ownership transfer. Shows understanding of blockchain transactions. Can integrate with web3 wallets."
+    },
+    {
+      "title": "Blockchain Supply Chain Tracking",
+      "desc": "Each movement of goods is stored immutably on blockchain. Prevents counterfeits & improves traceability. Real industrial application. Illustrates smart contract + data persistence usage."
+    }
+  ],
+  "game developer": [
+    {
+      "title": "3D Adventure Game in Unity",
+      "desc": "Includes physics, character movement, and NPC AI. Demonstrates knowledge of real-time rendering. Can expand to quests & multiplayer. Shows full game mechanics implementation."
+    },
+    {
+      "title": "2D Platformer",
+      "desc": "Focuses on precise jump physics, motion, elasticity, and level design. Teaches game physics principles. Great project for showcasing animation logic. Can be extended into mobile game release."
+    },
+    {
+      "title": "VR Simulation Training",
+      "desc": "Immersive VR learning environment such as medical or industrial training. Shows skill in virtual reality frameworks. Useful in education and corporate training. Demonstrates cutting-edge interaction design."
+    }
+  ],
+  "mobile app developer": [
+    {
+      "title": "AI Study App",
+      "desc": "Scans text (OCR), summarizes content, and quizzes user using AI. Demonstrates ML + app development. Useful for students. Real-world commercial potential."
+    },
+    {
+      "title": "Expense Tracker App",
+      "desc": "Allows users to scan receipts and categorize expenses. Includes budget analytics and graphs. Useful for personal finance. Demonstrates core mobile UX patterns."
+    },
+    {
+      "title": "Flutter Social App",
+      "desc": "Cross-platform messaging and posting platform. Supports push notifications & media upload. Demonstrates scalability & UI responsiveness. Great for showcasing app architecture."
+    }
+  ],
+  "ethical hacker": [
+    {
+      "title": "Vulnerability Scanner",
+      "desc": "Scans systems and ranks potential risks. Helpful for cybersecurity audits. Demonstrates working knowledge of penetration testing. Can include exploit mapping."
+    },
+    {
+      "title": "Hackable Web App Practice Lab",
+      "desc": "A self-made intentionally insecure app to practice hacking methods. Provides safe environment for security learning. Shows deep understanding of vulnerabilities. Useful for red team demonstrations."
+    },
+    {
+      "title": "Wi-Fi Attack & Defense Simulator",
+      "desc": "Simulates hacking techniques & defenses for Wi-Fi networks. Teaches packet analysis and encryption. Shows network security awareness. Good for wireless security specialization."
+    }
+  ],
+  "graphic designer": [
+    {
+      "title": "Brand Identity Kit",
+      "desc": "Creates complete brand visuals for a fictitious business. Includes logo, icon set, typography, and social assets. Shows conceptual branding thinking. Great for portfolio."
+    },
+    {
+      "title": "App UI/UX Redesign Concept",
+      "desc": "Creates a refined modern redesign of an existing famous app. Focuses on usability + aesthetic appeal. Demonstrates wireframing and prototyping. Shows user journey understanding."
+    },
+    {
+      "title": "Marketing Poster Set",
+      "desc": "Multiple design variations for print/web advertising. Shows versatility and creativity. Demonstrates typography mastery. Useful for career in digital & advertising design."
+    }
+  ],
+  "electrical engineer": [
+    {
+      "title": "Smart Electricity Monitor",
+      "desc": "Measures real-time consumption and cuts power during overload. Can include IoT dashboard monitoring. Applies microcontroller electronics. Useful for smart home systems."
+    },
+    {
+      "title": "Power Fault Detection System",
+      "desc": "Analyzes voltage distribution and detects failure points. Helps improve electrical safety. Relevant for industrial power systems. Shows circuit and signal skills."
+    },
+    {
+      "title": "Solar Optimization Circuit",
+      "desc": "Optimizes solar energy conversion using MPPT method. Improves charging efficiency. Useful for renewable energy engineering. Demonstrates practical circuit analysis."
+    }
+  ],
+  "robotics engineer": [
+    {
+      "title": "Line-Following Robot",
+      "desc": "Uses IR sensors to detect motion path. Implements real-time control algorithm. Introduces robotics fundamentals. Good starting robotics portfolio project."
+    },
+    {
+      "title": "Gesture-Controlled Arm",
+      "desc": "User moves their hand and robot replicates movements. Uses IMU & Bluetooth. Explores human-machine interaction. Useful for prosthetics & automation."
+    },
+    {
+      "title": "SLAM Robot Mapping",
+      "desc": "Robot scans surroundings and builds a map using localization algorithms. Uses LiDAR or depth cameras. Teaches advanced robotic navigation. Highly advanced portfolio highlight."
+    }
+  ],
+  "supply chain manager": [
+    {
+      "title": "Inventory Optimization Dashboard",
+      "desc": "Predicts reorder levels and tracks stock. Uses forecasting algorithms. Helps reduce overstock or shortages. Used in warehouse operations."
+    },
+    {
+      "title": "Warehouse Route Optimization",
+      "desc": "Optimizes worker pathways to minimize picking time. Uses algorithmic path planning. Improves labor efficiency. Relevant in logistics management."
+    },
+    {
+      "title": "GPS Delivery Optimization System",
+      "desc": "Optimizes vehicle routes based on real-time traffic. Reduces fuel consumption & delivery time. Highly used in courier & food businesses."
+    }
+  ],
+  "content writer": [
+    {
+      "title": "SEO-Optimized Blog Set",
+      "desc": "Writes multiple articles with SEO strategies. Demonstrates topic research and keyword use. Used for ranking on Google. Good portfolio for writing positions."
+    },
+    {
+      "title": "Technical Documentation Portfolio",
+      "desc": "Creates user manuals, troubleshooting guides, and product documentation. Shows ability to explain complex topics clearly. Useful in IT and product-based companies."
+    },
+    {
+      "title": "Brand Copywriting Series",
+      "desc": "Creates emotional and persuasive text for marketing. Includes taglines & brand stories. Shows brand personality creation. Valuable for marketing roles."
+    }
+  ],
+  "teacher / professor": [
+    {
+      "title": "Question Generator System",
+      "desc": "Automates exam question creation based on learning objectives. Supports difficulty scaling. Saves academic preparation time. Uses educational psychology."
+    },
+    {
+      "title": "Mini LMS Platform",
+      "desc": "Enables digital teaching with content hosting, quizzes, and attendance. Helps in modern education methods. Shows instructional design knowledge."
+    },
+    {
+      "title": "Performance Analyzer",
+      "desc": "Tracks student engagement, grades, and improvement areas. Uses data to recommend learning actions. Demonstrates educational analytics."
+    }
+  ],
+  "automotive engineer": [
+    {
+      "title": "EV Powertrain Model",
+      "desc": "Simulates electric motor dynamics, torque curves, and battery range. Helps understand energy efficiency. Relevant in EV industry. Demonstrates automotive system modeling."
+    },
+    {
+      "title": "Aerodynamic Testing with CFD",
+      "desc": "Simulates airflow over vehicle surface. Reduces drag. Improves vehicle design. Industrial-level real simulation."
+    },
+    {
+      "title": "ABS Simulation",
+      "desc": "Models braking performance in varying road conditions. Demonstrates safety engineering. Used in automotive braking research."
+    }
+  ],
+  "aerospace engineer": [
+    {
+      "title": "Drone Flight Model",
+      "desc": "Simulates stability & control in different wind conditions. Useful for UAV development. Shows aerodynamics principles. Good aerospace portfolio project."
+    },
+    {
+      "title": "Satellite Transmission Model",
+      "desc": "Simulates communication delay, error rate, and orbital movement. Demonstrates radio & communication engineering. Used in space tech."
+    },
+    {
+      "title": "Rocket Trajectory Calculator",
+      "desc": "Computes thrust requirements and drag vs altitude. Displays path visualization. Helps understand orbital mechanics."
+    }
+  ],
+  "pharmacist": [
+    {
+      "title": "Drug Interaction Checker",
+      "desc": "Analyzes multiple medicines for harmful combinations. Assists in preventing health risks. Useful in clinical settings. Applies pharmacology knowledge."
+    },
+    {
+      "title": "Pharmacy Inventory System",
+      "desc": "Tracks medicine stock and expiration dates. Reduces waste and shortage. Good for medical shop automation."
+    },
+    {
+      "title": "Prescription Management App",
+      "desc": "Stores patient drug history and dosage instructions. Increases record-keeping accuracy. Improves medical safety and compliance."
+    }
+  ],
+  "doctor / nurse": [
+    {
+      "title": "AI-assisted Symptom Checker",
+      "desc": "Users input symptoms and the system suggests possible conditions using medical probability models. Helps reduce unnecessary hospital visits. Can recommend severity level & medical advice guidelines. Demonstrates healthcare–AI application."
+    },
+    {
+      "title": "Patient Health History Monitoring System",
+      "desc": "Stores long-term records of diagnoses, medications, allergies, vital reports. Helps identify chronic behavioral patterns. Improves continuity of care. Useful for hospital practice."
+    },
+    {
+      "title": "Digital Nurse Assistant App",
+      "desc": "Schedules medications, monitors vitals, and reminds patient tasks. Used for remote or elderly health care. Helps with nursing care support. Demonstrates clinical software workflow."
+    }
+  ],
+  "lawyer": [
+    {
+      "title": "Legal Contract Verification Tool",
+      "desc": "Scans documents and flags risky clauses or missing legal components. Helps automate legal review. Useful for corporate contract handling. Demonstrates NLP + law domain knowledge."
+    },
+    {
+      "title": "Digital Case Management System",
+      "desc": "Tracks clients, court dates, evidence, judgments, billing. Helps organize litigation information. Streamlines lawyer workflow. Can add search & filtering logic."
+    },
+    {
+      "title": "Law Education Explainer AI",
+      "desc": "Answers basic legal questions using simplified language. Great for public legal awareness. Demonstrates law knowledge and NLP applications. Useful in legal consultancy."
+    }
+  ],
+  "architect": [
+    {
+      "title": "3D Building Visualization",
+      "desc": "Designs a building in SketchUp or Revit and enables walkthrough simulation. Helps clients visualize final structure real-time. Creates strong architectural presentation. Shows space planning skills."
+    },
+    {
+      "title": "Eco-Friendly Housing Model",
+      "desc": "Focuses on ventilation, sunlight optimization, and thermal efficiency. Uses green building materials and smart layout. Reduces environmental impact. Great for sustainable design portfolio."
+    },
+    {
+      "title": "Urban City Layout Planning",
+      "desc": "Designs district planning with roads, public facilities, zoning logic. Shows macro-level architectural thinking. Demonstrates functional + social design principles. Good for governmental or development projects."
+    }
+  ],
+  "cad designer": [
+    {
+      "title": "3D Mechanical Component Blueprint",
+      "desc": "Designs precise parts like gears, shafts, turbines with micrometer accuracy. Demonstrates drafting & modeling mastery. Can export to STL for manufacturing. Useful for mechanical CAD roles."
+    },
+    {
+      "title": "Automobile Component Rendering",
+      "desc": "Models realistic car components visually and functionally. Uses textures and material simulation. Suitable for automotive firms. Shows realism capability in CAD."
+    },
+    {
+      "title": "Home Interior CAD Visualization",
+      "desc": "Creates layouts of rooms, furniture, lighting, spacing. Useful for interior planning. Helps visualize customer requirements. Demonstrates artistic and technical CAD capability."
+    }
+  ],
+  "social media manager": [
+    {
+      "title": "Social Engagement Analytics Dashboard",
+      "desc": "Tracks audience engagement, post performance, best posting times. Data-driven insights improve growth. Demonstrates marketing analytics. Useful for companies and influencers."
+    },
+    {
+      "title": "Content Scheduling & Automation Tool",
+      "desc": "Automates posting on multiple platforms at optimal times. Saves labor and increases consistency. Useful for brand management. Shows automation & marketing workflow."
+    },
+    {
+      "title": "Brand Voice Identity Guide",
+      "desc": "Defines tone, writing style, message templates for a brand. Creates consistent communication persona. Strengthens brand recognition. Suitable for corporate media strategy."
+    }
+  ],
+  "e-commerce manager": [
+    {
+      "title": "Product Listing Optimization Framework",
+      "desc": "Optimizes product titles, tags, images to boost visibility. Demonstrates SEO and conversion understanding. Raises sales performance. Practical in Amazon/Shopify roles."
+    },
+    {
+      "title": "Sales Performance Dashboard",
+      "desc": "Tracks daily revenue, order volume, refunds, conversion rates. Helps decisions on discount strategies. Data-based management advantage. Shows BI skills."
+    },
+    {
+      "title": "Customer Purchase Behavior Analysis",
+      "desc": "Analyzes user journeys, abandoned carts, repeat purchases. Helps refine UX & retention strategies. Useful for growth campaigns. Demonstrates customer psychology & analytics."
+    }
+  ],
+  "video editor": [
+    {
+      "title": "Cinematic Short Video Production",
+      "desc": "Includes storytelling, color grading, music synchronization. Demonstrates editing creativity and directing intention. Useful for film/video portfolio."
+    },
+    {
+      "title": "Motion Graphics Animation",
+      "desc": "Creates animated titles, logo stingers, transitions. Used in content branding. Shows After Effects-style motion mastery. Good for professional multimedia roles."
+    },
+    {
+      "title": "Documentary or Interview Edit",
+      "desc": "Combines raw footage, dialogue, ambience, captions. Teaches narrative pacing and clarity. Suitable for professional production editing."
+    }
+  ],
+  "data scientist": [
+    {
+      "title": "Predictive Modeling with ML",
+      "desc": "Uses historical data to predict outcomes like demand, prices, failure rates. Demonstrates regression, classification & model evaluation. Useful for real industry forecasting."
+    },
+    {
+      "title": "Customer Segmentation using Clustering",
+      "desc": "Groups users based on behavior patterns. Helps marketing & recommendation strategies. Demonstrates unsupervised ML. Great practical analytics project."
+    },
+    {
+      "title": "Computer Vision Detection App",
+      "desc": "Uses TensorFlow/PyTorch for object or face recognition. Demonstrates neural networks. Useful for automation, safety, and surveillance domains."
+    }
+  ],
+  "data governance / data quality": [
+    {
+      "title": "Metadata Dictionary System",
+      "desc": "Defines & centralizes data field descriptions and ownership. Improves data consistency across orgs. Great for enterprise database clarity."
+    },
+    {
+      "title": "Data Quality Validation Framework",
+      "desc": "Detects missing, incorrect, duplicate, or inconsistent data. Automates cleansing and reporting. Enhances reliability of analytics."
+    },
+    {
+      "title": "Compliance Monitoring System",
+      "desc": "Checks datasets for compliance with GDPR, ISO, HIPAA etc. Critical for secure data operation. Demonstrates knowledge of regulatory frameworks."
+    }
+  ],
+  "it support / help desk": [
+    {
+      "title": "Ticket Management System",
+      "desc": "Users log technical issues and support team tracks resolution steps. Helps in service workflow. Demonstrates user management logic."
+    },
+    {
+      "title": "Remote Device Diagnostic Tool",
+      "desc": "Reads system info, logs, and detects probable errors. Used to assist remote troubleshooting. Practical and highly demanded."
+    },
+    {
+      "title": "User Knowledge & FAQ Portal",
+      "desc": "Self-resolution documentation platform. Reduces support load. Helps educate users and teams."
+    }
+  ],
+  "system administrator": [
+    {
+      "title": "Active Directory User Management System",
+      "desc": "Centralized management of user accounts, group policies, and access permissions. Demonstrates expertise in enterprise authentication systems. Useful for corporate IT infrastructure. Shows administrative and security handling."
+    },
+    {
+      "title": "Automated System Backup & Recovery",
+      "desc": "Schedules full & incremental backups. Enables recovery from accidental deletion and hardware failure. Demonstrates disaster recovery planning. Applies in business continuity management."
+    },
+    {
+      "title": "Virtualized Server Infrastructure",
+      "desc": "Creates multiple virtual machines for testing and hosting services. Helps in resource optimization and security isolation. Demonstrates virtualization tools like VMware/Hyper-V. Shows enterprise IT environment simulation."
+    }
+  ],
+  "linux engineer": [
+    {
+      "title": "Shell Scripting Automation Suite",
+      "desc": "Automates tasks like log rotation, updates, and system cleanup. Demonstrates command-line proficiency. Improves server efficiency and admin control. Useful for backend systems."
+    },
+    {
+      "title": "Performance Monitoring Dashboard",
+      "desc": "Captures CPU, RAM, IO, process stats using Bash + tools like top, ps, vmstat. Helps detect performance bottlenecks. Good for production optimization. Shows Linux resource management."
+    },
+    {
+      "title": "Secure Linux Hardening Toolkit",
+      "desc": "Implements best practices like firewall rules, SSH restrictions, and package validation. Reduces attack surface. Demonstrates cybersecurity integration with Linux administration."
+    }
+  ],
+  "software testing engineer": [
+    {
+      "title": "Automated UI Testing Framework",
+      "desc": "Uses Selenium for executing automated functional tests across browsers. Eliminates manual testing effort. Improves consistency & reduces errors. Demonstrates QA automation skill."
+    },
+    {
+      "title": "API Testing Suite using Postman & Pytest",
+      "desc": "Validates API responses, latency, and failure handling. Ensures backend reliability. Used in microservices & backend validation. Shows core QA abilities."
+    },
+    {
+      "title": "Load Testing Setup with JMeter",
+      "desc": "Simulates thousands of simultaneous users to measure system performance. Helps identify stress points & scalability issues. Critical for production readiness."
+    }
+  ],
+  "penetration tester": [
+    {
+      "title": "Exploit Development Lab",
+      "desc": "Creates and executes attack payloads on test systems. Demonstrates deep understanding of vulnerabilities. Good for advanced security roles. Shows analytical exploitation ability."
+    },
+    {
+      "title": "Full Web App Penetration Testing Report",
+      "desc": "Pen-tests an application and documents all vulnerabilities with mitigation steps. Useful for security audit portfolios. Shows real attack methodology & reporting skills."
+    },
+    {
+      "title": "Kali Linux Attack Simulation Toolkit",
+      "desc": "Uses tools like nmap, Metasploit, Burp to simulate real cyber attacks. Helps practice and showcase hacking skills. Great for Red Team demonstration."
+    }
+  ],
+  "database administrator": [
+    {
+      "title": "Database Performance Optimization",
+      "desc": "Tunes queries, indexes, schema structure. Minimizes execution time and resource load. Critical for enterprise applications. Shows SQL mastery."
+    },
+    {
+      "title": "Backup & Disaster Restoration System",
+      "desc": "Automates DB backups and supports point-in-time recovery. Prevents data loss. Demonstrates operational resilience. Valuable for real environments."
+    },
+    {
+      "title": "Data Replication Across Servers",
+      "desc": "Implements Master–Slave or Multi-primary replication. Enables load balancing and fault tolerance. Shows high-availability database engineering."
+    }
+  ],
+  "hr recruiter": [
+    {
+      "title": "Applicant Tracking System (ATS)",
+      "desc": "Stores candidate profiles, filters by skill, and manages hiring workflow. Helps speed up recruitment. Simulates HR software environment. Good demonstration of hiring logic."
+    },
+    {
+      "title": "Skill-based Resume Ranking Tool",
+      "desc": "Analyzes resumes using keyword and score mapping. Automatically matches candidates to job roles. Shows data-driven recruitment."
+    },
+    {
+      "title": "Interview Scheduling & Feedback System",
+      "desc": "Coordinates interviews, reminders, and collects feedback. Automates HR workflow. Enhances hiring efficiency."
+    }
+  ],
+  "it auditor": [
+    {
+      "title": "Security Compliance Checklist System",
+      "desc": "Tracks compliance with IT standards like SOC2, ISO27001, NIST. Helps verify risk policies. Shows understanding of audit frameworks. Useful for enterprise audits."
+    },
+    {
+      "title": "Network & Access Audit Tool",
+      "desc": "Logs user access, policy violations, unauthorized system entry. Helps prevent insider threats. Demonstrates audit & forensic skills."
+    },
+    {
+      "title": "Data Encryption & Privacy Review System",
+      "desc": "Ensures sensitive information is encrypted at rest and transit. Detects insecure storage. Shows implementation of privacy safeguards."
+    }
+  ],
+  "sap consultant": [
+    {
+      "title": "SAP Financial Process Simulation (FICO)",
+      "desc": "Simulates ledger, invoicing, reconciliation. Demonstrates finance workflow inside SAP. Useful for accounting & enterprise consulting."
+    },
+    {
+      "title": "Material Management Optimization (MM)",
+      "desc": "Automates stock transfers, procurement, vendor orders. Reduces supply delays. Demonstrates SAP business process knowledge."
+    },
+    {
+      "title": "SAP HANA Data Analytics Dashboard",
+      "desc": "Generates insights from SAP transaction data. Demonstrates real-time analytics. Very relevant in enterprise-level SAP roles."
+    }
+  ],
+  "ui engineer": [
+    {
+      "title": "Reusable UI Component Library",
+      "desc": "Develops custom UI components: buttons, alerts, containers, modals, charts. Promotes consistency in UI development. Shows understanding of design systems."
+    },
+    {
+      "title": "Themeable UI System (Dark/Light Mode)",
+      "desc": "Implements dynamic theme switching. Enhances user experience. Demonstrates CSS architecture and responsive design."
+    },
+    {
+      "title": "Performance-Optimized Frontend Architecture",
+      "desc": "Implements lazy loading, bundling, code splitting. Improves loading speed and UX. Demonstrates scalable component management."
+    }
+  ],
+  "technical writer": [
+    {
+      "title": "Developer Documentation for APIs",
+      "desc": "Writes clear endpoints, examples, authentication steps. Helps developers integrate quickly. Shows clarity and conciseness."
+    },
+    {
+      "title": "User Manual & Onboarding Documentation",
+      "desc": "Creates step-by-step user guides for non-technical users. Improves accessibility & product usability. Highly valued in product teams."
+    },
+    {
+      "title": "Knowledge Base / FAQ Platform",
+      "desc": "Documents recurring queries and solutions. Reduces support load. Demonstrates documentation structure and information clarity."
+    }
+  ],
+  "cyber security": [
+    {
+      "title": "Live Threat Monitoring Dashboard",
+      "desc": "Displays intrusion attempts, unusual login patterns, and packet anomalies in real time. Helps visualize attack events and timeline. Demonstrates networking + SIEM knowledge. Good security operations center (SOC) portfolio."
+    },
+    {
+      "title": "Phishing Simulation & Training System",
+      "desc": "Sends simulated phishing attacks to test employee awareness. Measures click rates & risk score. Helps corporate cybersecurity training. Shows social engineering defense capability."
+    },
+    {
+      "title": "Endpoint Security Hardening Tool",
+      "desc": "Implements firewall rules, process monitoring, and access restrictions on devices. Reduces malware infection risk. Demonstrates defensive security engineering."
+    }
+  ],
+  "devops aws": [
+    {
+      "title": "AWS Auto-Scaling App Deployment",
+      "desc": "Deploys an application on AWS EC2 with auto-scaling groups and load balancers. Adjusts machine count based on traffic. Shows cloud elasticity understanding. Real production-level skill."
+    },
+    {
+      "title": "S3 + Lambda Serverless Processing Pipeline",
+      "desc": "Uploads trigger event-based processing automatically. Useful for document processing & automation. Demonstrates serverless architectures."
+    },
+    {
+      "title": "CloudFormation/Terraform Infra Blueprint",
+      "desc": "Fully describes AWS infra as code. Can be recreated instantly in any account. Shows professional infrastructure engineering."
+    }
+  ],
+  "cloud architect": [
+    {
+      "title": "Multi-Cloud Deployment Architecture",
+      "desc": "Deploys services replicated across AWS/Azure/GCP. Provides fault tolerance in region failures. Shows deep cloud networking & redundancy planning."
+    },
+    {
+      "title": "High Availability & Disaster Recovery Plan",
+      "desc": "Designs backup servers, failover strategy, and redundancy in architecture. Ensures minimal downtime. Demonstrates resilience engineering."
+    },
+    {
+      "title": "Cost-Optimized Cloud Resource Planner",
+      "desc": "Analyzes workload patterns & optimizes cost usage. Recommends right-sizing & spot instances. Shows business + technical awareness."
+    }
+  ],
+  "ai / ml": [
+    {
+      "title": "Deep Learning Image Classifier",
+      "desc": "Uses CNNs to classify objects or handwritten numbers. Demonstrates computer vision knowledge. Good intro to deep learning."
+    },
+    {
+      "title": "NLP Text Sentiment Analysis Model",
+      "desc": "Predicts emotional tone of text like tweets or reviews. Useful for social listening & review analytics. Demonstrates NLP concepts using transformers."
+    },
+    {
+      "title": "Recommendation Engine",
+      "desc": "Suggests products / content based on user history. Used in Netflix/Amazon style personalization. Very relevant real industry skill."
+    }
+  ],
+  "data analyst": [
+    {
+      "title": "Business KPI Dashboard",
+      "desc": "Visualizes sales performance, customer metrics using Power BI/Tableau. Helps decision-makers understand trends. Real corporate analytics work."
+    },
+    {
+      "title": "Excel-based Financial Insights Model",
+      "desc": "Analyzes revenue, cost, profit patterns using formulas & pivot tables. Strengthens data interpretation ability. Useful for finance & ops analysis."
+    },
+    {
+      "title": "Survey Data Insights Project",
+      "desc": "Analyzes user survey results and extracts behavioral trends. Demonstrates statistical understanding. Useful for marketing & customer research."
+    }
+  ],
+  "data engineer": [
+    {
+      "title": "Automated ETL Pipeline",
+      "desc": "Extracts raw data, transforms & loads into analytical warehouse. Demonstrates data flow & handling. Critical for large data environments."
+    },
+    {
+      "title": "Kafka Stream Processing System",
+      "desc": "Processes real-time data flows for alerts & analytics. Relevant for live telemetry & event systems. Shows mastery of distributed data."
+    },
+    {
+      "title": "Data Lake Implementation",
+      "desc": "Stores large variety of raw data efficiently. Enables future analysis. Shows architectural planning in data systems."
+    }
+  ],
+  "backend developer": [
+    {
+      "title": "Authentication & Authorization API",
+      "desc": "Manages login, tokens, roles, and permissions. Critical backend skill. Shows security & session handling knowledge."
+    },
+    {
+      "title": "Payment Processing Microservice",
+      "desc": "Implements Stripe/Razorpay style secure transactions. Demonstrates finance system design. High demand backend expertise."
+    },
+    {
+      "title": "Event-Driven Notification System",
+      "desc": "Sends email/SMS/push notifications based on triggers. Shows asynchronous design patterns. Scalable real backend system."
+    }
+  ],
+  "frontend developer": [
+    {
+      "title": "Dynamic Form & Validation System",
+      "desc": "Interactive UI form with validation, auto-suggestions, error display. Demonstrates user-friendly UI logic. Great example of React programming."
+    },
+    {
+      "title": "Interactive Data Visualization UI",
+      "desc": "Graphs, charts, filters — all reactive updates. Helps users understand complex data visually. Very relevant for analytics dashboards."
+    },
+    {
+      "title": "Responsive Multi-Layout Web UI",
+      "desc": "Optimized for mobile/desktop, flex grid, fluid typography. Demonstrates strong CSS & responsive design."
+    }
+  ],
+  "fullstack developer": [
+    {
+      "title": "Full Marketplace Website",
+      "desc": "Frontend for browsing + Backend for ordering + User login + Admin panel. Shows full end-to-end architecture. Real e-commerce model."
+    },
+    {
+      "title": "Project Management Web App",
+      "desc": "Kanban board, tasks, deadlines, user roles. Demonstrates real collaborative system logic. Full stack CRUD & auth included."
+    },
+    {
+      "title": "Social Media Clone",
+      "desc": "Posts, comments, likes, profiles, friends. Uses frontend + API + database. Very popular portfolio project."
+    }
+  ],
+  "ui/ux designer": [
+    {
+      "title": "Interactive High-Fidelity Prototype",
+      "desc": "Designs user journeys and interactions. Tests user flow before coding. Demonstrates design thinking methodology."
+    },
+    {
+      "title": "User Research + Persona Documents",
+      "desc": "Interviews potential users, identifies needs, pain points. Helps validate UX choices. Shows human-centered design skill."
+    },
+    {
+      "title": "Mobile App UX Optimization Study",
+      "desc": "Evaluates a real app for usability improvements. Suggests redesigns & enhancements. Demonstrates understanding of UI ergonomics."
+    }
+  ],
+  "qa / testing": [
+    {
+      "title": "Regression Testing Automation Suite",
+      "desc": "Automates retesting after each version update to ensure no previous features break. Saves enormous manual testing time. Demonstrates coverage planning & automation scripting."
+    },
+    {
+      "title": "Exploratory Testing Report of a Real App",
+      "desc": "Tester manually explores unknown bugs and documents unexpected behavior. Shows critical thinking and product understanding. Valuable for usability and edge-case finding."
+    },
+    {
+      "title": "Mobile App Testing Framework",
+      "desc": "Executes automated tests on Android/iOS devices. Ensures cross-platform consistency. Useful in mobile-first development."
+    }
+  ],
+  "network engineer": [
+    {
+      "title": "Enterprise Network Topology Simulation",
+      "desc": "Designs LAN/WAN architecture using Cisco Packet Tracer or GNS3. Demonstrates routing protocols & IP addressing. Applicable to corporate-scale networks."
+    },
+    {
+      "title": "Router & Firewall Security Setup",
+      "desc": "Implements ACL, NAT, port restrictions, VPN, and IDS/IPS settings. Enhances network protection. Shows applied network security competency."
+    },
+    {
+      "title": "QoS Network Traffic Prioritization",
+      "desc": "Prioritizes critical traffic (VoIP/video) over general data. Improves real-time communication. Relevant in telecom & enterprise IT."
+    }
+  ],
+  "project manager": [
+    {
+      "title": "Agile Sprint Planning Case Study",
+      "desc": "Defines sprint backlog, tasks, story points, and deadlines. Demonstrates SCRUM methodology. Shows leadership in coordinating teams."
+    },
+    {
+      "title": "Risk & Mitigation Management Framework",
+      "desc": "Identifies project risks and assigns mitigation strategies. Shows ability to foresee blockers. Professional project planning skill."
+    },
+    {
+      "title": "Work Breakdown Structure (WBS) Project Mapping",
+      "desc": "Breaks a large project into small deliverables. Helps monitor progress effectively. Demonstrates organizational management capability."
+    }
+  ],
+  "business analyst": [
+    {
+      "title": "Requirement Gathering Specification Report",
+      "desc": "Interviews stakeholders and gathers business requirements. Creates structured documentation. Shows communication and analytical clarity."
+    },
+    {
+      "title": "Process Optimization Study",
+      "desc": "Analyzes workflow, identifies inefficiencies, recommends improvements. Shows business transformation thinking. Useful for enterprise consulting."
+    },
+    {
+      "title": "Cost-Benefit Analysis Model",
+      "desc": "Compares investment vs expected return. Helps justify decisions. Demonstrates finance & strategic thinking."
+    }
+  ],
+  "hr": [
+    {
+      "title": "Onboarding & Employee Lifecycle System",
+      "desc": "Tracks employee joining, training, promotion, exit. Creates structured HR pipeline. Helps standardize workforce management."
+    },
+    {
+      "title": "Employee Satisfaction Survey & Insights",
+      "desc": "Collects sentiment, satisfaction, morale, and culture indicators. Enables improvement in employee engagement."
+    },
+    {
+      "title": "HR Policy Handbook & Case Template",
+      "desc": "Defines punishments, rewards, leave rules, performance metrics. Shows execution of corporate HR governance."
+    }
+  ],
+  "finance": [
+    {
+      "title": "Financial Forecasting Model",
+      "desc": "Uses previous data to predict future revenues, cash flow, and investments. Supports strategic planning. Useful for FP&A roles."
+    },
+    {
+      "title": "Stock Portfolio Risk Assessment",
+      "desc": "Analyzes volatility, beta risk, correlations. Implements modern portfolio theory. Shows market and risk knowledge."
+    },
+    {
+      "title": "Expense vs Revenue Statistical Report",
+      "desc": "Tracks monthly fluctuations and cost patterns. Useful for managerial budgeting."
+    }
+  ],
+  "accounting": [
+    {
+      "title": "Double-Entry Bookkeeping System",
+      "desc": "Implements ledger, journal, trial balance, cash book. Ensures accurate accounting flow. Foundational finance practice skill."
+    },
+    {
+      "title": "Tax Calculation & Filing Helper",
+      "desc": "Computes tax liability based on income & deductions. Useful for compliance tasks. Shows regulatory understanding."
+    },
+    {
+      "title": "Invoice Generation & Payment Tracking",
+      "desc": "Manages customer billing cycles and due payments. Completes accounting with reporting functions."
+    }
+  ],
+  "marketing": [
+    {
+      "title": "SEO Keyword Ranking Model",
+      "desc": "Tests keyword optimization and search visibility. Helps boost Google ranking. Practical digital marketing skill."
+    },
+    {
+      "title": "Social Campaign ROI Analysis",
+      "desc": "Measures ad spend vs conversion results. Helps refine future targeting. Shows marketing strategy data application."
+    },
+    {
+      "title": "Brand Positioning Strategy Document",
+      "desc": "Defines brand values, market segments, communication tone. Shows high-level branding knowledge."
+    }
+  ],
+  "sales": [
+    {
+      "title": "CRM Customer Pipeline Workflow",
+      "desc": "Tracks leads through funnel: prospect → negotiation → closing → retention. Shows understanding of customer lifecycle."
+    },
+    {
+      "title": "Sales Forecasting & Performance Dashboard",
+      "desc": "Predicts monthly sales and agent performance. Helps optimize incentive structures. Used in business sales planning."
+    },
+    {
+      "title": "Cold Outreach Optimization Script",
+      "desc": "Tests different messaging formats & tracks response. Improves conversion rate significantly."
+    }
+  ],
+  "product manager": [
+    {
+      "title": "User Pain Point & Opportunity Research",
+      "desc": "Identifies customer struggles and unmet needs. Uses interviews, surveys, behavior analysis. Shows deep product empathy."
+    },
+    {
+      "title": "Feature Prioritization Roadmap",
+      "desc": "Ranks features based on impact, effort, and ROI. Demonstrates 80/20 product strategy."
+    },
+    {
+      "title": "MVP Scope & Launch Strategy",
+      "desc": "Defines minimal essential feature set. Helps launch early, test market response. Real product lifecycle planning."
+    }
+  ]
+}

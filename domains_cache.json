@@ -1,0 +1,386 @@
+{
+  "aws devops engineer": {
+    "label": "Aws Devops Engineer",
+    "core": [
+      "devops",
+      "engineer"
+    ],
+    "tools": [
+      "python",
+      "pandas",
+      "numpy",
+      "api",
+      "automation",
+      "aws",
+      "gcp",
+      "azure",
+      "lambda",
+      "kubernetes",
+      "pentesting",
+      "siem"
+    ],
+    "certs": [],
+    "skills": [
+      {
+        "name": "aws devops engineer Fundamentals",
+        "links": [
+          "https://www.youtube.com/results?search_query=aws+devops+engineer"
+        ]
+      },
+      {
+        "name": "aws devops engineer Tools Overview",
+        "links": []
+      },
+      {
+        "name": "aws devops engineer Practical Workflows",
+        "links": []
+      },
+      {
+        "name": "aws devops engineer Hands-on Project",
+        "links": []
+      }
+    ],
+    "projects": [
+      "Build a complete aws devops engineer demo project with measurable outcomes.",
+      "Create a case study applying aws devops engineer tools and publish findings.",
+      "Automate a common aws devops engineer workflow to save time or reduce errors.",
+      "Develop a portfolio-ready end-to-end aws devops engineer project."
+    ]
+  },
+  "web developer": {
+    "label": "Web Developer",
+    "core": [
+      "developer"
+    ],
+    "tools": [
+      "python",
+      "pandas",
+      "numpy",
+      "api",
+      "automation",
+      "aws",
+      "gcp",
+      "azure",
+      "lambda",
+      "kubernetes",
+      "pentesting",
+      "siem"
+    ],
+    "certs": [],
+    "skills": [
+      {
+        "name": "web developer Fundamentals",
+        "links": [
+          "https://www.youtube.com/results?search_query=web+developer"
+        ]
+      },
+      {
+        "name": "web developer Tools Overview",
+        "links": []
+      },
+      {
+        "name": "web developer Practical Workflows",
+        "links": []
+      },
+      {
+        "name": "web developer Hands-on Project",
+        "links": []
+      }
+    ],
+    "projects": [
+      "Build a complete web developer demo project with measurable outcomes.",
+      "Create a case study applying web developer tools and publish findings.",
+      "Automate a common web developer workflow to save time or reduce errors.",
+      "Develop a portfolio-ready end-to-end web developer project."
+    ]
+  },
+  "java developer": {
+    "label": "Java Developer",
+    "core": [
+      "java",
+      "developer"
+    ],
+    "tools": [
+      "python",
+      "pandas",
+      "numpy",
+      "api",
+      "automation",
+      "aws",
+      "gcp",
+      "azure",
+      "lambda",
+      "kubernetes",
+      "pentesting",
+      "siem"
+    ],
+    "certs": [],
+    "skills": [
+      {
+        "name": "java developer Fundamentals",
+        "links": [
+          "https://www.youtube.com/results?search_query=java+developer"
+        ]
+      },
+      {
+        "name": "java developer Tools Overview",
+        "links": []
+      },
+      {
+        "name": "java developer Practical Workflows",
+        "links": []
+      },
+      {
+        "name": "java developer Hands-on Project",
+        "links": []
+      }
+    ],
+    "projects": [
+      "Build a complete java developer demo project with measurable outcomes.",
+      "Create a case study applying java developer tools and publish findings.",
+      "Automate a common java developer workflow to save time or reduce errors.",
+      "Develop a portfolio-ready end-to-end java developer project."
+    ]
+  },
+  "quantum algorithm researcher": {
+    "label": "Quantum Algorithm Researcher",
+    "core": [
+      "quantum",
+      "algorithm",
+      "researcher"
+    ],
+    "tools": [
+      "python",
+      "pandas",
+      "numpy",
+      "api",
+      "automation",
+      "aws",
+      "gcp",
+      "azure",
+      "lambda",
+      "kubernetes",
+      "pentesting",
+      "siem"
+    ],
+    "certs": [],
+    "skills": [
+      {
+        "name": "Quantum Algorithm Researcher Fundamentals",
+        "links": [
+          "https://www.youtube.com/results?search_query=Quantum%20Algorithm%20Researcher"
+        ]
+      }
+    ],
+    "projects": [
+      "Build a complete Quantum Algorithm Researcher demo with measurable outcomes",
+      "Document a Quantum Algorithm Researcher case study demonstrating impact"
+    ]
+  },
+  "aviation safety officer": {
+    "label": "Aviation Safety Officer",
+    "core": [
+      "aviation",
+      "safety",
+      "officer"
+    ],
+    "tools": [
+      "python",
+      "pandas",
+      "numpy",
+      "api",
+      "automation",
+      "aws",
+      "gcp",
+      "azure",
+      "lambda",
+      "kubernetes",
+      "pentesting",
+      "siem"
+    ],
+    "certs": [],
+    "skills": [
+      {
+        "name": "Aviation Safety Officer Fundamentals",
+        "links": [
+          "https://www.youtube.com/results?search_query=Aviation%20Safety%20Officer"
+        ]
+      }
+    ],
+    "projects": [
+      "Build a complete Aviation Safety Officer demo with measurable outcomes",
+      "Document a Aviation Safety Officer case study demonstrating impact"
+    ]
+  },
+  "biomedical engineer": {
+    "label": "Biomedical Engineer",
+    "core": [
+      "biomedical",
+      "engineer"
+    ],
+    "tools": [
+      "python",
+      "pandas",
+      "numpy",
+      "api",
+      "automation",
+      "aws",
+      "gcp",
+      "azure",
+      "lambda",
+      "kubernetes",
+      "pentesting",
+      "siem"
+    ],
+    "certs": [],
+    "skills": [
+      {
+        "name": "Biomedical Engineer Fundamentals",
+        "links": [
+          "https://www.youtube.com/results?search_query=Biomedical%20Engineer"
+        ]
+      }
+    ],
+    "projects": [
+      "Build a complete Biomedical Engineer demo with measurable outcomes",
+      "Document a Biomedical Engineer case study demonstrating impact"
+    ]
+  },
+  "ethical hacker": {
+    "label": "Ethical Hacker",
+    "core": [
+      "ethical",
+      "hacker"
+    ],
+    "tools": [
+      "python",
+      "pandas",
+      "numpy",
+      "api",
+      "automation",
+      "aws",
+      "gcp",
+      "azure",
+      "lambda",
+      "kubernetes",
+      "pentesting",
+      "siem"
+    ],
+    "certs": [],
+    "skills": [
+      {
+        "name": "Ethical Hacker Fundamentals",
+        "links": [
+          "https://www.youtube.com/results?search_query=Ethical%20Hacker"
+        ]
+      }
+    ],
+    "projects": [
+      "Build a complete Ethical Hacker demo with measurable outcomes",
+      "Document a Ethical Hacker case study demonstrating impact"
+    ]
+  },
+  "business analyst": {
+    "label": "Business Analyst",
+    "core": [
+      "business",
+      "analyst"
+    ],
+    "tools": [
+      "python",
+      "pandas",
+      "numpy",
+      "api",
+      "automation",
+      "aws",
+      "gcp",
+      "azure",
+      "lambda",
+      "kubernetes",
+      "pentesting",
+      "siem"
+    ],
+    "certs": [],
+    "skills": [
+      {
+        "name": "Business Analyst Fundamentals",
+        "links": [
+          "https://www.youtube.com/results?search_query=Business%20Analyst"
+        ]
+      }
+    ],
+    "projects": [
+      "Build a complete Business Analyst demo with measurable outcomes",
+      "Document a Business Analyst case study demonstrating impact"
+    ]
+  },
+  "ai prompt engineer": {
+    "label": "Ai Prompt Engineer",
+    "core": [
+      "prompt",
+      "engineer"
+    ],
+    "tools": [
+      "python",
+      "pandas",
+      "numpy",
+      "api",
+      "automation",
+      "aws",
+      "gcp",
+      "azure",
+      "lambda",
+      "kubernetes",
+      "pentesting",
+      "siem"
+    ],
+    "certs": [],
+    "skills": [
+      {
+        "name": "AI Prompt Engineer Fundamentals",
+        "links": [
+          "https://www.youtube.com/results?search_query=AI%20Prompt%20Engineer"
+        ]
+      }
+    ],
+    "projects": [
+      "Build a complete AI Prompt Engineer demo with measurable outcomes",
+      "Document a AI Prompt Engineer case study demonstrating impact"
+    ]
+  },
+  "network security specialist": {
+    "label": "Network Security Specialist",
+    "core": [
+      "network",
+      "security",
+      "specialist"
+    ],
+    "tools": [
+      "python",
+      "pandas",
+      "numpy",
+      "api",
+      "automation",
+      "aws",
+      "gcp",
+      "azure",
+      "lambda",
+      "kubernetes",
+      "pentesting",
+      "siem"
+    ],
+    "certs": [],
+    "skills": [
+      {
+        "name": "Network Security Specialist Fundamentals",
+        "links": [
+          "https://www.youtube.com/results?search_query=Network%20Security%20Specialist"
+        ]
+      }
+    ],
+    "projects": [
+      "Build a complete Network Security Specialist demo with measurable outcomes",
+      "Document a Network Security Specialist case study demonstrating impact"
+    ]
+  }
+}
